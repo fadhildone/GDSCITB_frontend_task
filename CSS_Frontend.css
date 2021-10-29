@@ -12,6 +12,17 @@
 .pengantar h1{
 	font-size: 40px;
 	margin: 20px;
+	text-align: center;
+.pengantar p1 {
+	font-size: 20px;
+}
+
+}
+body {
+	background-color: skyblue;
+	border-width: 5px;
+	border-color: darkgreen;
+	border-style: solid;
 
 }
 
@@ -36,7 +47,7 @@
 
 /* Modal Content/Box */
 .deskripsi {
-  background-color: #fefefe;
+  background-color: lightgreen; 
   margin: 15% auto; /* 15% from the top and centered */
   width: 80%; /* Could be more or less, depending on screen size */
 
